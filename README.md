@@ -1,1 +1,1 @@
-# DiagramsMLP
+# Diagrams_of_MLP
